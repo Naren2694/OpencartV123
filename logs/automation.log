@@ -1,0 +1,501 @@
+13:49:17.452 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+13:49:17.457 [main] INFO  testCases.TC_001_AccountRegistration - Launching application
+13:49:18.487 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo-->Registration link
+13:49:19.324 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+13:49:19.473 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer first name
+13:49:19.598 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer last name
+13:49:19.740 [main] INFO  testCases.TC_001_AccountRegistration - Provided email
+13:49:19.869 [main] INFO  testCases.TC_001_AccountRegistration - Provided tel number
+13:49:20.123 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+13:49:22.795 [main] INFO  testCases.TC_001_AccountRegistration - clicked on  continue button
+13:49:22.859 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+13:49:22.861 [main] INFO  testCases.TC_001_AccountRegistration - validation started....
+13:49:22.861 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed....
+13:49:44.373 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+13:49:44.376 [main] INFO  testCases.TC_001_AccountRegistration - Launching application
+13:49:45.570 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo-->Registration link
+13:49:46.370 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+13:49:46.528 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer first name
+13:49:46.659 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer last name
+13:49:46.797 [main] INFO  testCases.TC_001_AccountRegistration - Provided email
+13:49:46.932 [main] INFO  testCases.TC_001_AccountRegistration - Provided tel number
+13:49:47.175 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+13:49:49.806 [main] INFO  testCases.TC_001_AccountRegistration - clicked on  continue button
+13:49:49.872 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+13:49:49.872 [main] INFO  testCases.TC_001_AccountRegistration - validation started....
+13:49:49.872 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed....
+14:04:47.160 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+14:04:47.164 [main] INFO  testCases.TC_001_AccountRegistration - Launching application
+14:04:48.166 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo-->Registration link
+14:04:49.103 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+14:04:49.254 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer first name
+14:04:49.370 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer last name
+14:04:49.490 [main] INFO  testCases.TC_001_AccountRegistration - Provided email
+14:04:49.618 [main] INFO  testCases.TC_001_AccountRegistration - Provided tel number
+14:04:49.864 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+14:04:50.399 [main] INFO  testCases.TC_001_AccountRegistration - clicked on  continue button
+14:05:00.447 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+14:05:00.447 [main] INFO  testCases.TC_001_AccountRegistration - validation started....
+14:05:01.994 [main] ERROR testCases.TC_001_AccountRegistration - Registration test failed....
+14:15:05.955 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+14:15:05.959 [main] INFO  testCases.TC_001_AccountRegistration - Launching application
+14:15:06.901 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo-->Registration link
+14:15:07.814 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+14:15:07.958 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer first name
+14:15:08.073 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer last name
+14:15:08.186 [main] INFO  testCases.TC_001_AccountRegistration - Provided email
+14:15:08.305 [main] INFO  testCases.TC_001_AccountRegistration - Provided tel number
+14:15:08.559 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+14:15:09.080 [main] INFO  testCases.TC_001_AccountRegistration - clicked on  continue button
+14:15:19.157 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+14:15:19.158 [main] INFO  testCases.TC_001_AccountRegistration - validation started....
+14:15:20.754 [main] ERROR testCases.TC_001_AccountRegistration - Registration test failed....
+06:52:40.122 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+06:52:40.129 [main] INFO  testCases.TC_001_AccountRegistration - Launching application
+06:52:41.064 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo-->Registration link
+06:52:41.970 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+06:52:42.150 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer first name
+06:52:42.287 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer last name
+06:52:42.420 [main] INFO  testCases.TC_001_AccountRegistration - Provided email
+06:52:42.562 [main] INFO  testCases.TC_001_AccountRegistration - Provided tel number
+06:52:42.852 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+06:52:43.367 [main] INFO  testCases.TC_001_AccountRegistration - clicked on  continue button
+06:52:53.410 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+06:52:53.426 [main] INFO  testCases.TC_001_AccountRegistration - validation started....
+06:52:54.805 [main] ERROR testCases.TC_001_AccountRegistration - Registration test failed....
+06:53:34.401 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+06:53:34.404 [main] INFO  testCases.TC_001_AccountRegistration - Launching application
+06:53:35.421 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo-->Registration link
+06:53:36.168 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+06:53:36.319 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer first name
+06:53:36.439 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer last name
+06:53:36.563 [main] INFO  testCases.TC_001_AccountRegistration - Provided email
+06:53:36.688 [main] INFO  testCases.TC_001_AccountRegistration - Provided tel number
+06:53:36.994 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+06:53:37.503 [main] INFO  testCases.TC_001_AccountRegistration - clicked on  continue button
+06:53:47.612 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+06:53:47.612 [main] INFO  testCases.TC_001_AccountRegistration - validation started....
+06:53:49.025 [main] ERROR testCases.TC_001_AccountRegistration - Registration test failed....
+06:53:50.428 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+06:53:51.041 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+06:53:51.370 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+06:53:51.757 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+06:53:51.961 [main] INFO  testCases.TC_002_Login - Provided Email 
+06:53:52.082 [main] INFO  testCases.TC_002_Login - Provided Password 
+06:53:52.409 [main] INFO  testCases.TC_002_Login - Clicked on Login
+06:54:02.429 [main] ERROR testCases.TC_002_Login - Login Failed 
+06:57:25.430 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+06:57:25.433 [main] INFO  testCases.TC_001_AccountRegistration - Launching application
+06:57:26.185 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo-->Registration link
+06:57:26.919 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+06:57:27.065 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer first name
+06:57:27.188 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer last name
+06:57:27.328 [main] INFO  testCases.TC_001_AccountRegistration - Provided email
+06:57:27.447 [main] INFO  testCases.TC_001_AccountRegistration - Provided tel number
+06:57:27.693 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+06:57:30.346 [main] INFO  testCases.TC_001_AccountRegistration - clicked on  continue button
+06:57:30.415 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+06:57:30.416 [main] INFO  testCases.TC_001_AccountRegistration - validation started....
+06:57:30.416 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed....
+06:57:31.721 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+06:57:32.488 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+06:57:32.753 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+06:57:33.115 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+06:57:33.330 [main] INFO  testCases.TC_002_Login - Provided Email 
+06:57:33.495 [main] INFO  testCases.TC_002_Login - Provided Password 
+06:57:34.055 [main] INFO  testCases.TC_002_Login - Clicked on Login
+06:57:34.155 [main] INFO  testCases.TC_002_Login - Login Success 
+07:49:50.621 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+07:49:51.208 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+07:49:51.756 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+07:49:51.967 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+07:49:52.104 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+07:49:52.625 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+07:49:52.737 [main] INFO  testCases.TC_003_LoginDDT - Login Success 
+07:49:53.690 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+07:49:53.823 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+07:49:54.255 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+07:49:54.462 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+07:49:54.577 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+07:49:54.928 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+07:50:05.040 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+07:50:05.430 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+07:50:05.541 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+07:50:05.923 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+07:50:06.093 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+07:50:06.215 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+07:50:06.560 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+07:50:16.640 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+07:50:17.020 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+07:50:17.123 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+07:50:17.550 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+07:50:17.702 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+07:50:17.823 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+07:50:18.215 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+07:50:28.279 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+07:59:51.134 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+07:59:51.133 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+07:59:51.140 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Launching application
+07:59:51.140 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launching application
+07:59:52.142 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo-->Registration link
+07:59:52.633 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo-->Registration link
+07:59:53.158 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+07:59:53.274 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Provided customer first name
+07:59:53.414 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Provided customer last name
+07:59:53.556 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Provided email
+07:59:53.600 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+07:59:53.662 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Provided tel number
+07:59:53.770 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Provided customer first name
+07:59:53.834 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+07:59:53.937 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Provided customer last name
+07:59:54.110 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Provided email
+07:59:54.236 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Provided tel number
+07:59:54.550 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+07:59:56.497 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - clicked on  continue button
+07:59:56.547 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+07:59:56.547 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - validation started....
+07:59:56.547 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistration - Registration test passed....
+07:59:57.263 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - clicked on  continue button
+07:59:57.387 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+07:59:57.387 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - validation started....
+07:59:57.392 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Registration test passed....
+11:27:06.017 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+11:27:07.019 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+11:27:07.402 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+11:27:07.898 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+11:27:08.070 [main] INFO  testCases.TC_002_Login - Provided Email 
+11:27:08.179 [main] INFO  testCases.TC_002_Login - Provided Password 
+11:27:08.728 [main] INFO  testCases.TC_002_Login - Clicked on Login
+11:27:08.825 [main] INFO  testCases.TC_002_Login - Login Success 
+11:49:38.447 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+11:49:39.274 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+11:49:39.699 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+11:49:40.093 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+11:49:40.291 [main] INFO  testCases.TC_002_Login - Provided Email 
+11:49:40.412 [main] INFO  testCases.TC_002_Login - Provided Password 
+11:49:40.814 [main] INFO  testCases.TC_002_Login - Clicked on Login
+11:49:40.901 [main] INFO  testCases.TC_002_Login - Login Success 
+11:55:50.448 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+11:55:51.064 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+11:55:51.447 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+11:55:51.834 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+11:55:52.032 [main] INFO  testCases.TC_002_Login - Provided Email 
+11:55:52.141 [main] INFO  testCases.TC_002_Login - Provided Password 
+11:55:52.569 [main] INFO  testCases.TC_002_Login - Clicked on Login
+11:55:52.668 [main] INFO  testCases.TC_002_Login - Login Success 
+12:08:01.100 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+12:08:01.785 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+12:08:02.215 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+12:08:02.652 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+12:08:02.865 [main] INFO  testCases.TC_002_Login - Provided Email 
+12:08:02.976 [main] INFO  testCases.TC_002_Login - Provided Password 
+12:08:03.488 [main] INFO  testCases.TC_002_Login - Clicked on Login
+12:08:03.599 [main] INFO  testCases.TC_002_Login - Login Success 
+12:13:14.083 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+12:13:14.794 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+12:13:15.127 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+12:13:15.496 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+12:13:15.694 [main] INFO  testCases.TC_002_Login - Provided Email 
+12:13:15.816 [main] INFO  testCases.TC_002_Login - Provided Password 
+12:13:16.251 [main] INFO  testCases.TC_002_Login - Clicked on Login
+12:13:16.355 [main] INFO  testCases.TC_002_Login - Login Success 
+12:19:27.658 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+12:19:28.306 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+12:19:28.728 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+12:19:29.115 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+12:19:29.314 [main] INFO  testCases.TC_002_Login - Provided Email 
+12:19:29.432 [main] INFO  testCases.TC_002_Login - Provided Password 
+12:19:29.899 [main] INFO  testCases.TC_002_Login - Clicked on Login
+12:19:29.999 [main] INFO  testCases.TC_002_Login - Login Success 
+12:22:26.955 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+12:22:27.697 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+12:22:28.131 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+12:22:28.536 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+12:22:28.740 [main] INFO  testCases.TC_002_Login - Provided Email 
+12:22:28.866 [main] INFO  testCases.TC_002_Login - Provided Password 
+12:22:29.331 [main] INFO  testCases.TC_002_Login - Clicked on Login
+12:22:29.441 [main] INFO  testCases.TC_002_Login - Login Success 
+12:27:03.213 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+12:27:03.900 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+12:27:04.330 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+12:27:04.748 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+12:27:04.936 [main] INFO  testCases.TC_002_Login - Provided Email 
+12:27:05.045 [main] INFO  testCases.TC_002_Login - Provided Password 
+12:27:05.487 [main] INFO  testCases.TC_002_Login - Clicked on Login
+12:27:05.588 [main] INFO  testCases.TC_002_Login - Login Success 
+12:32:36.491 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+12:32:47.934 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+12:43:55.777 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+12:43:56.440 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+12:43:56.785 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+12:43:57.196 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+12:43:57.377 [main] INFO  testCases.TC_002_Login - Provided Email 
+12:43:57.489 [main] INFO  testCases.TC_002_Login - Provided Password 
+12:43:57.931 [main] INFO  testCases.TC_002_Login - Clicked on Login
+12:43:58.032 [main] INFO  testCases.TC_002_Login - Login Success 
+12:45:46.867 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+12:45:47.447 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+12:45:47.759 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+12:45:48.143 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+12:45:48.315 [main] INFO  testCases.TC_002_Login - Provided Email 
+12:45:48.427 [main] INFO  testCases.TC_002_Login - Provided Password 
+12:45:48.831 [main] INFO  testCases.TC_002_Login - Clicked on Login
+12:45:48.922 [main] INFO  testCases.TC_002_Login - Login Success 
+12:47:14.183 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+12:47:14.772 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+12:47:15.132 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+12:47:15.519 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+12:47:15.687 [main] INFO  testCases.TC_002_Login - Provided Email 
+12:47:15.813 [main] INFO  testCases.TC_002_Login - Provided Password 
+12:47:16.201 [main] INFO  testCases.TC_002_Login - Clicked on Login
+12:47:16.317 [main] INFO  testCases.TC_002_Login - Login Success 
+12:47:56.103 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+12:47:56.654 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+12:47:57.070 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+12:47:57.502 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+12:47:57.674 [main] INFO  testCases.TC_002_Login - Provided Email 
+12:47:57.836 [main] INFO  testCases.TC_002_Login - Provided Password 
+12:47:58.314 [main] INFO  testCases.TC_002_Login - Clicked on Login
+12:47:58.422 [main] INFO  testCases.TC_002_Login - Login Success 
+12:48:47.417 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+12:48:47.987 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+12:48:48.352 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+12:48:48.738 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+12:48:48.921 [main] INFO  testCases.TC_002_Login - Provided Email 
+12:48:49.035 [main] INFO  testCases.TC_002_Login - Provided Password 
+12:48:49.464 [main] INFO  testCases.TC_002_Login - Clicked on Login
+12:48:49.570 [main] INFO  testCases.TC_002_Login - Login Success 
+12:49:32.989 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+12:49:33.567 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+12:49:33.954 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+12:49:34.387 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+12:49:34.571 [main] INFO  testCases.TC_002_Login - Provided Email 
+12:49:34.680 [main] INFO  testCases.TC_002_Login - Provided Password 
+12:49:35.116 [main] INFO  testCases.TC_002_Login - Clicked on Login
+12:49:35.215 [main] INFO  testCases.TC_002_Login - Login Success 
+06:27:30.442 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+06:27:31.673 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+06:27:32.151 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+06:27:32.607 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+06:27:32.828 [main] INFO  testCases.TC_002_Login - Provided Email 
+06:27:32.962 [main] INFO  testCases.TC_002_Login - Provided Password 
+06:27:33.406 [main] INFO  testCases.TC_002_Login - Clicked on Login
+06:27:33.536 [main] INFO  testCases.TC_002_Login - Login Success 
+06:28:20.707 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+06:28:21.308 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+06:28:21.737 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+06:28:22.102 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+06:28:22.290 [main] INFO  testCases.TC_002_Login - Provided Email 
+06:28:22.404 [main] INFO  testCases.TC_002_Login - Provided Password 
+06:28:22.865 [main] INFO  testCases.TC_002_Login - Clicked on Login
+06:28:22.955 [main] INFO  testCases.TC_002_Login - Login Success 
+06:46:16.844 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+06:46:17.509 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+06:46:18.071 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+06:46:18.580 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+06:46:18.771 [main] INFO  testCases.TC_002_Login - Provided Email 
+06:46:18.903 [main] INFO  testCases.TC_002_Login - Provided Password 
+06:46:19.368 [main] INFO  testCases.TC_002_Login - Clicked on Login
+06:46:19.486 [main] INFO  testCases.TC_002_Login - Login Success 
+06:46:20.936 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+06:46:20.936 [main] INFO  testCases.TC_001_AccountRegistration - Launching application
+06:46:21.740 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo-->Registration link
+06:46:22.595 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+06:46:22.756 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer first name
+06:46:22.893 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer last name
+06:46:23.045 [main] INFO  testCases.TC_001_AccountRegistration - Provided email
+06:46:23.176 [main] INFO  testCases.TC_001_AccountRegistration - Provided tel number
+06:46:23.471 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+06:46:26.196 [main] INFO  testCases.TC_001_AccountRegistration - clicked on  continue button
+06:46:26.271 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+06:46:26.271 [main] INFO  testCases.TC_001_AccountRegistration - validation started....
+06:46:26.271 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed....
+06:46:48.723 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+06:46:49.369 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+06:46:49.774 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+06:46:50.165 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+06:46:50.371 [main] INFO  testCases.TC_002_Login - Provided Email 
+06:46:50.511 [main] INFO  testCases.TC_002_Login - Provided Password 
+06:46:50.949 [main] INFO  testCases.TC_002_Login - Clicked on Login
+06:46:51.059 [main] INFO  testCases.TC_002_Login - Login Success 
+06:47:10.637 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+06:47:10.642 [main] INFO  testCases.TC_001_AccountRegistration - Launching application
+06:47:11.437 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo-->Registration link
+06:47:12.318 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+06:47:12.467 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer first name
+06:47:12.593 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer last name
+06:47:12.743 [main] INFO  testCases.TC_001_AccountRegistration - Provided email
+06:47:12.873 [main] INFO  testCases.TC_001_AccountRegistration - Provided tel number
+06:47:13.172 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+06:47:15.857 [main] INFO  testCases.TC_001_AccountRegistration - clicked on  continue button
+06:47:15.911 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+06:47:15.911 [main] INFO  testCases.TC_001_AccountRegistration - validation started....
+06:47:15.911 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed....
+06:52:55.467 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+06:52:56.151 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+06:52:56.657 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+06:52:57.180 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+06:52:57.361 [main] INFO  testCases.TC_002_Login - Provided Email 
+06:52:57.483 [main] INFO  testCases.TC_002_Login - Provided Password 
+06:52:57.991 [main] INFO  testCases.TC_002_Login - Clicked on Login
+06:52:58.109 [main] INFO  testCases.TC_002_Login - Login Success 
+06:52:59.654 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+06:52:59.655 [main] INFO  testCases.TC_001_AccountRegistration - Launching application
+06:53:00.451 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo-->Registration link
+06:53:01.241 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+06:53:01.392 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer first name
+06:53:01.522 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer last name
+06:53:01.668 [main] INFO  testCases.TC_001_AccountRegistration - Provided email
+06:53:01.803 [main] INFO  testCases.TC_001_AccountRegistration - Provided tel number
+06:53:02.044 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+06:53:04.785 [main] INFO  testCases.TC_001_AccountRegistration - clicked on  continue button
+06:53:04.857 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+06:53:04.857 [main] INFO  testCases.TC_001_AccountRegistration - validation started....
+06:53:06.276 [main] ERROR testCases.TC_001_AccountRegistration - Registration test failed....
+06:55:22.804 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+06:55:22.806 [main] INFO  testCases.TC_001_AccountRegistration - Launching application
+06:55:23.611 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo-->Registration link
+06:55:24.577 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+06:55:24.737 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer first name
+06:55:24.869 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer last name
+06:55:25.016 [main] INFO  testCases.TC_001_AccountRegistration - Provided email
+06:55:25.178 [main] INFO  testCases.TC_001_AccountRegistration - Provided tel number
+06:55:25.476 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+06:55:28.159 [main] INFO  testCases.TC_001_AccountRegistration - clicked on  continue button
+06:55:28.232 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+06:55:28.233 [main] INFO  testCases.TC_001_AccountRegistration - validation started....
+06:55:28.233 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed....
+07:00:02.747 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+07:00:03.852 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+07:00:04.399 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+07:00:04.796 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+07:00:05.000 [main] INFO  testCases.TC_002_Login - Provided Email 
+07:00:05.134 [main] INFO  testCases.TC_002_Login - Provided Password 
+07:00:05.514 [main] INFO  testCases.TC_002_Login - Clicked on Login
+07:00:15.572 [main] ERROR testCases.TC_002_Login - Login Failed 
+07:00:18.540 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+07:00:18.541 [main] INFO  testCases.TC_001_AccountRegistration - Launching application
+07:00:19.350 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo-->Registration link
+07:00:20.162 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+07:00:20.324 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer first name
+07:00:20.448 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer last name
+07:00:20.600 [main] INFO  testCases.TC_001_AccountRegistration - Provided email
+07:00:20.721 [main] INFO  testCases.TC_001_AccountRegistration - Provided tel number
+07:00:20.974 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+07:00:23.742 [main] INFO  testCases.TC_001_AccountRegistration - clicked on  continue button
+07:00:23.814 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+07:00:23.814 [main] INFO  testCases.TC_001_AccountRegistration - validation started....
+07:00:23.814 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed....
+07:01:36.334 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+07:01:37.026 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+07:01:37.578 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+07:01:38.179 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+07:01:38.368 [main] INFO  testCases.TC_002_Login - Provided Email 
+07:01:38.493 [main] INFO  testCases.TC_002_Login - Provided Password 
+07:01:39.017 [main] INFO  testCases.TC_002_Login - Clicked on Login
+07:01:39.136 [main] INFO  testCases.TC_002_Login - Login Success 
+07:03:01.147 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+07:03:01.848 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+07:03:02.333 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+07:03:02.797 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+07:03:02.993 [main] INFO  testCases.TC_002_Login - Provided Email 
+07:03:03.119 [main] INFO  testCases.TC_002_Login - Provided Password 
+07:03:03.473 [main] INFO  testCases.TC_002_Login - Clicked on Login
+07:03:13.544 [main] ERROR testCases.TC_002_Login - Login Failed 
+07:03:16.334 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+07:03:16.334 [main] INFO  testCases.TC_001_AccountRegistration - Launching application
+07:03:17.172 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo-->Registration link
+07:03:17.914 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+07:03:18.074 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer first name
+07:03:18.204 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer last name
+07:03:18.353 [main] INFO  testCases.TC_001_AccountRegistration - Provided email
+07:03:18.472 [main] INFO  testCases.TC_001_AccountRegistration - Provided tel number
+07:03:18.716 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+07:03:21.435 [main] INFO  testCases.TC_001_AccountRegistration - clicked on  continue button
+07:03:21.498 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+07:03:21.498 [main] INFO  testCases.TC_001_AccountRegistration - validation started....
+07:03:22.831 [main] ERROR testCases.TC_001_AccountRegistration - Registration test failed....
+07:39:12.901 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+07:39:13.586 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+07:39:14.115 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+07:39:14.601 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+07:39:14.839 [main] INFO  testCases.TC_002_Login - Provided Email 
+07:39:14.973 [main] INFO  testCases.TC_002_Login - Provided Password 
+07:39:15.565 [main] INFO  testCases.TC_002_Login - Clicked on Login
+07:39:15.672 [main] INFO  testCases.TC_002_Login - Login Success 
+07:39:17.308 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+07:39:17.309 [main] INFO  testCases.TC_001_AccountRegistration - Launching application
+07:39:18.157 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo-->Registration link
+07:39:18.944 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+07:39:19.108 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer first name
+07:39:19.238 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer last name
+07:39:19.390 [main] INFO  testCases.TC_001_AccountRegistration - Provided email
+07:39:19.530 [main] INFO  testCases.TC_001_AccountRegistration - Provided tel number
+07:39:19.809 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+07:39:22.473 [main] INFO  testCases.TC_001_AccountRegistration - clicked on  continue button
+07:39:22.556 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+07:39:22.556 [main] INFO  testCases.TC_001_AccountRegistration - validation started....
+07:39:22.556 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed....
+07:41:28.439 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+07:41:29.067 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+07:41:29.600 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+07:41:30.110 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+07:41:30.322 [main] INFO  testCases.TC_002_Login - Provided Email 
+07:41:30.464 [main] INFO  testCases.TC_002_Login - Provided Password 
+07:41:30.967 [main] INFO  testCases.TC_002_Login - Clicked on Login
+07:41:31.087 [main] INFO  testCases.TC_002_Login - Login Success 
+07:41:32.708 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+07:41:32.708 [main] INFO  testCases.TC_001_AccountRegistration - Launching application
+07:41:33.683 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo-->Registration link
+07:41:34.471 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+07:41:34.625 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer first name
+07:41:34.757 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer last name
+07:41:34.908 [main] INFO  testCases.TC_001_AccountRegistration - Provided email
+07:41:35.043 [main] INFO  testCases.TC_001_AccountRegistration - Provided tel number
+07:41:35.363 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+07:41:37.997 [main] INFO  testCases.TC_001_AccountRegistration - clicked on  continue button
+07:41:38.069 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+07:41:38.070 [main] INFO  testCases.TC_001_AccountRegistration - validation started....
+07:41:38.070 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed....
+07:56:00.302 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+07:56:01.081 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+07:56:01.476 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+07:56:01.963 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+07:56:02.146 [main] INFO  testCases.TC_002_Login - Provided Email 
+07:56:02.275 [main] INFO  testCases.TC_002_Login - Provided Password 
+07:56:02.792 [main] INFO  testCases.TC_002_Login - Clicked on Login
+07:56:02.897 [main] INFO  testCases.TC_002_Login - Login Success 
+07:56:05.134 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+07:56:05.134 [main] INFO  testCases.TC_001_AccountRegistration - Launching application
+07:56:06.013 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo-->Registration link
+07:56:06.866 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+07:56:07.016 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer first name
+07:56:07.143 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer last name
+07:56:07.295 [main] INFO  testCases.TC_001_AccountRegistration - Provided email
+07:56:07.436 [main] INFO  testCases.TC_001_AccountRegistration - Provided tel number
+07:56:07.727 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+07:56:10.467 [main] INFO  testCases.TC_001_AccountRegistration - clicked on  continue button
+07:56:10.534 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+07:56:10.534 [main] INFO  testCases.TC_001_AccountRegistration - validation started....
+07:56:10.534 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed....
+07:59:21.133 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+07:59:21.837 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+07:59:22.331 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+07:59:22.726 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+07:59:22.940 [main] INFO  testCases.TC_002_Login - Provided Email 
+07:59:23.057 [main] INFO  testCases.TC_002_Login - Provided Password 
+07:59:23.533 [main] INFO  testCases.TC_002_Login - Clicked on Login
+07:59:23.633 [main] INFO  testCases.TC_002_Login - Login Success 
+07:59:25.741 [main] INFO  testCases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+07:59:25.744 [main] INFO  testCases.TC_001_AccountRegistration - Launching application
+07:59:26.627 [main] INFO  testCases.TC_001_AccountRegistration - Clicking on MyInfo-->Registration link
+07:59:27.350 [main] INFO  testCases.TC_001_AccountRegistration - Providing customer details
+07:59:27.495 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer first name
+07:59:27.624 [main] INFO  testCases.TC_001_AccountRegistration - Provided customer last name
+07:59:27.773 [main] INFO  testCases.TC_001_AccountRegistration - Provided email
+07:59:27.890 [main] INFO  testCases.TC_001_AccountRegistration - Provided tel number
+07:59:28.176 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+07:59:30.843 [main] INFO  testCases.TC_001_AccountRegistration - clicked on  continue button
+07:59:30.916 [main] INFO  testCases.TC_001_AccountRegistration - Provided password & conform password
+07:59:30.916 [main] INFO  testCases.TC_001_AccountRegistration - validation started....
+07:59:30.916 [main] INFO  testCases.TC_001_AccountRegistration - Registration test passed....
